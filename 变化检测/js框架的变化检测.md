@@ -1,0 +1,1 @@
+[原文](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
